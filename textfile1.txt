@@ -2,3 +2,4 @@ this is my first change
 this change is for branch1
 this is second change in branch1 file
 this change is from master
+3rd change from master
